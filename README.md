@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-A blog about life written by Srinidhi Srinivasasubbu.
+A blog about life written by Srinidhi Srini.
 
 ## Credits
 
