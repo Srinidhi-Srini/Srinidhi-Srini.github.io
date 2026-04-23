@@ -4,7 +4,7 @@ layout: post
 mathjax: true
 ---
 
-Hello everyone. This post will be about the Stress-Strain Curve, a very important figure in Materials Engineering. What is a Stress-Strain curve? As the name may suggest, it's a graph that shows the behavior of a material under a load, with stress being the y-axis and strain being the x-axis. From the graph, we can determine more properties of the material, like stiffness, strength, ductility, etc. We will cover all of these concepts in this blog post. 
+Hello everyone. This post will be about the Stress-Strain Curve, a very important concept in Materials Engineering. What is a Stress-Strain curve? As the name may suggest, it's a graph that shows the behavior of a material under a load, with stress being the y-axis and strain being the x-axis. From the graph, we can determine more properties of the material, like stiffness, strength, ductility, etc. We will cover all of these concepts in this blog post. 
 
 
 
@@ -14,9 +14,9 @@ Hello everyone. This post will be about the Stress-Strain Curve, a very importan
 
 
 ## Stress & Strain
-First, what is stress and strain? Stress is defined as the internal force per unit area ($$\sigma = \frac{F}{A_0} $$). It's important to note that the Area used is the original cross sectional Area before any load is applied. A force in general is any external push or pull on an object. One example of stress is columns supporting a building, with compressive stress in the columns resulting from the forces exerted on it by the building. 
+First, what is stress and strain? Stress is defined as the internal force per unit area $$\sigma = \frac{F}{A_0} $$. It's important to note that the Area used is the original cross sectional Area before any load is applied. A force in general is any external push or pull on an object. One example of stress is columns supporting a building, with compressive stress in the columns resulting from the forces exerted on it by the building. 
 
-Strain is a measurement of deformation, defined as the ratio of the change in length to the original length ($$ \varepsilon = \frac{\Delta L}{L_0}$$). One example of strain is the previously mentioned column shortening due to being under load of the building. 
+Strain is a measurement of deformation, defined as the ratio of the change in length to the original length $$ \varepsilon = \frac{\Delta L}{L_0}$$. One example of strain is the previously mentioned column shortening due to being under load of the building. 
 
 
 ## Elastic Deformation
