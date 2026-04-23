@@ -6,6 +6,8 @@ mathjax: true
 
 Hello everyone. This post will be about the Stress-Strain Curve, a very important figure in Materials Engineering. What is a Stress-Strain curve? As the name may suggest, it's a graph that shows the behavior of a material under a load, with stress being the y-axis and strain being the x-axis. From the graph, we can determine more properties of the material, like stiffness, strength, ductility, etc. We will cover all of these concepts in this blog post. 
 
+
+
 ![Stress-Strain Curve](/assets/images/bp8.png){: style="display: block; margin: 0 auto;"}
 {: style="text-align: center;"}
 
@@ -19,7 +21,7 @@ Strain is a measurement of deformation, defined as the ratio of the change in le
 
 ## Elastic Deformation
 
-Elastic Deformation is defined as reversible and nonpermanent deformation. If you apply a load, the material will deform, but after removing it, it will go back to how it was before. The bonds of the atoms stretch when the load is applied, and after removing it, they unstretech. This is a linear relationship between stress and strain. The slope of this line (E) is Young's Modulus. Young's Modulus E measures a material's resistance to elastic deformation, or Stiffness. 
+Elastic Deformation is defined as reversible and nonpermanent deformation. If you apply a load, the material will deform, but after removing the load, it will return to how it was before. The bonds of the atoms stretch when the load is applied, and after removing it, they unstretech. This is a linear relationship between stress and strain. The slope of this line (E) is Young's Modulus. Young's Modulus E measures a material's resistance to elastic deformation, or Stiffness. 
 
 ![Stress-Strain Curve](/assets/images/bp9.png){: style="display: block; margin: 0 auto;"}
 {: style="text-align: center;"}
@@ -38,6 +40,6 @@ Tensile Strength is the maximum stress the material can undergo before fracturin
 ![Stress-Strain Curve](/assets/images/bpp2.png){: style="display: block; margin: 0 auto;"}
 {: style="text-align: center;"}
 
-
+One responsibility of Materials Engineers is selecting materials that have the appropriate properties for the application. If we are trying to construct columns, we don't want materials that will deform and fracture under the load of the building. That would be very catastrophic. Thanks for reading everyone! Please let me know your thoughts :)
 
 
