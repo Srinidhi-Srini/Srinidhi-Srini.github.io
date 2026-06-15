@@ -8,6 +8,11 @@ Hello everyone. This post will be about the Stress-Strain Curve, a very importan
 
 
 
+
+
+
+
+
 ![Stress-Strain Curve](/assets/images/bp8.png){: style="display: block; margin: 0 auto;"}
 {: style="text-align: center;"}
 
