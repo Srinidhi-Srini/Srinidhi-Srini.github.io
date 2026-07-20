@@ -2,6 +2,7 @@ title: "Srinidhi's Blog"
 author: "Srinidhi Srinivasasubbu"
 description: "Srinidhi's Blog"
 permalink: /:title/
+baseurl: "srinidhi-srini.github.iosrinidhi-srini.github.io"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
